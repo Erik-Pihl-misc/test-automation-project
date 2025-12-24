@@ -8,3 +8,4 @@ Material från föreläsningar:
 * [L05](./L05/README.md) - Skapande av stubklasser för att komponenttesta systemlogiken.
 * [L06](./L06/README.md) - Implementering och vidareutveckling av komponenttester (del I).
 * [L07](./L07/README.md) - Implementering och vidareutveckling av komponenttester (del II).
+* [L08](./L08/README.md) - SW/HW-integrationstestning (del I).
