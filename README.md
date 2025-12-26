@@ -1,12 +1,14 @@
 # Test och automatisering - Ei24
 
-Repo för kursen Test och automatisering med klassen Ei24, vt26.
+Repo för kursen Test och automatisering med klassen Ei24, vt26:
 
-Lektionsplaneringar samt lektionsanteckningar finns i katalogen [lectures](./lectures/README.md).
+## Innehåll
+* Kursinformation finns i katalogen [info](./info/README.md).
+* Lektionsplaneringar samt lektionsanteckningar finns i katalogen [lectures](./lectures/README.md).
+* Biblioteket som test ska skrivas för finns i katalogen [library](./library/README.md).
+* Projektbeskrivningen (kursens enda projekt) finns i katalogen [project](./project/README.md).
 
-Biblioteket som test ska skrivas för finns i katalogen [library](./library/README.md).
-
-Projektbeskrivningen finns i katalogen [project](./project/README.md).
+## Installations- och användarinstruktioner
 
 ### Installera Visual Studio Code
 
