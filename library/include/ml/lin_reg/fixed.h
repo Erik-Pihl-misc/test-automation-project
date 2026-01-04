@@ -50,8 +50,8 @@ public:
      * @param[in] trainIn Training data input values.
      * @param[in] trainOut Training data output values.
      * @param[in] epochCount Number of epochs to perform training. Must be greater than 0.
-     * @param[in] learningRate Learning rate to use for updating the parameters (default = 1 %).
-     *                         Must be greater than 0.
+     * @param[in] learningRate Learning rate to use for updating the parameters (default = 0.01).
+     *                         Must be greater than 0.0 and less than or equal to 1.0.
      * 
      * @return True on success, false on failure.
      */

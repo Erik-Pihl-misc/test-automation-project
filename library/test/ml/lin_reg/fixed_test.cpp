@@ -10,4 +10,4 @@
 
 //! @todo Add tests to verify that the model does not get trained if any input argument is invalid, 
 //! e.g., if the number of complete training sets is 0, the epoch count is 0, or the learning rate 
-//! is less than or equal to 0. Also verify that the model always predicts 0 when untrained.
+//! is invalid (0.0 or less or greater than 1.0). 
