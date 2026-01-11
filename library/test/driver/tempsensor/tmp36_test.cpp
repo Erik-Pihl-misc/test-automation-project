@@ -41,10 +41,11 @@ constexpr std::int16_t convertToTemp(const std::uint16_t adcVal) noexcept
 }
 
 /**
- * @brief Temp sensor initilaization test.
+ * @brief Temp sensor initialization test.
  * 
- *        Verify that invalid pin numbers are not accepted and the sensor is not initialized 
- *        for out-of-range values.
+ *        Verify that the sensor isn't initialized if:
+ *            - The ADC isn't initialized.
+ *            - The temp sensor pin number (the ADC channel) is invalid.
  */
 TEST(TempSensor_Tmp36, Initialization)
 {

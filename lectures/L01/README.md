@@ -28,7 +28,7 @@ make
 
 ### Skriva tester
 * Öppna testfilen [smart_test.cpp](../../library/test/driver/tempsensor/smart_test.cpp).
-* Ta bort `#ifdef LECTURE1` (rad 15) samt motsvarande `#endif` (rad 48) för att aktivera testerna.
+* Ta bort `#ifdef LECTURE1` (rad 16) samt motsvarande `#endif` (rad 196) för att aktivera testerna.
 * Implementera testfallen enligt kommentarerna i filen.
 
 ### Demonstration
